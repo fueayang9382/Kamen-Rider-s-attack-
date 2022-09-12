@@ -1,0 +1,39 @@
+body {
+  background-color:green;
+  font-size:18px;
+ 
+ 
+}
+h1{
+  color:Red;
+  font-size:18px;
+  font-family:Arial, helvetica, san-serif;
+}
+
+img{
+  width: 50%;
+  
+}
+
+p,li{
+  color: white 
+  font-family:Arial, helvetica, san-serif;
+}
+
+.header{
+  background-color: black;  
+  padding-left: 10px;
+  border: 1px solid black;
+  margin:
+ 
+}
+
+.footer{
+  background: black ;
+  color: white;
+  border: 1px solid black; 
+  padding-left 10px; 
+}
+
+
+}
